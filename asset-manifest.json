@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fdt_project/static/css/main.4aea1cd8.css",
-    "main.js": "/fdt_project/static/js/main.c2ed7001.js",
-    "static/js/787.f49fe70c.chunk.js": "/fdt_project/static/js/787.f49fe70c.chunk.js",
+    "main.js": "/fdt_project/static/js/main.f6b81738.js",
+    "static/js/787.60c5a66b.chunk.js": "/fdt_project/static/js/787.60c5a66b.chunk.js",
     "static/media/SUN.JPG": "/fdt_project/static/media/SUN.b7491027468644179f12.JPG",
     "static/media/bird1.png": "/fdt_project/static/media/bird1.c8a1853d648b09a371c4.png",
     "static/media/liz.png": "/fdt_project/static/media/liz.3ea750ea86bf6128375b.png",
@@ -28,11 +28,11 @@
     "static/media/businessMT.jpg": "/fdt_project/static/media/businessMT.498e3c1f9112d607c84d.jpg",
     "index.html": "/fdt_project/index.html",
     "main.4aea1cd8.css.map": "/fdt_project/static/css/main.4aea1cd8.css.map",
-    "main.c2ed7001.js.map": "/fdt_project/static/js/main.c2ed7001.js.map",
-    "787.f49fe70c.chunk.js.map": "/fdt_project/static/js/787.f49fe70c.chunk.js.map"
+    "main.f6b81738.js.map": "/fdt_project/static/js/main.f6b81738.js.map",
+    "787.60c5a66b.chunk.js.map": "/fdt_project/static/js/787.60c5a66b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4aea1cd8.css",
-    "static/js/main.c2ed7001.js"
+    "static/js/main.f6b81738.js"
   ]
 }
