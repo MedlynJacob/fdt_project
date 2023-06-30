@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/fdt_project/static/css/main.4aea1cd8.css",
+    "main.js": "/fdt_project/static/js/main.c2ed7001.js",
+    "static/js/787.f49fe70c.chunk.js": "/fdt_project/static/js/787.f49fe70c.chunk.js",
+    "static/media/SUN.JPG": "/fdt_project/static/media/SUN.b7491027468644179f12.JPG",
+    "static/media/bird1.png": "/fdt_project/static/media/bird1.c8a1853d648b09a371c4.png",
+    "static/media/liz.png": "/fdt_project/static/media/liz.3ea750ea86bf6128375b.png",
+    "static/media/bird2.png": "/fdt_project/static/media/bird2.59a040e6dc5a8bb81784.png",
+    "static/media/home-hero.jpg": "/fdt_project/static/media/home-hero.1f9fad18f30cda9e46c9.jpg",
+    "static/media/dil.jpg": "/fdt_project/static/media/dil.e9fba302f273109a2694.jpg",
+    "static/media/usda.jpg": "/fdt_project/static/media/usda.a586ce671c57e8f10f57.jpg",
+    "static/media/noaa.jpg": "/fdt_project/static/media/noaa.633cdabd6336068ff293.jpg",
+    "static/media/dough.jpg": "/fdt_project/static/media/dough.6610c9be23fd0a63c0af.jpg",
+    "static/media/field.webp": "/fdt_project/static/media/field.fb5ba810ae8e8b4c02d8.webp",
+    "static/media/mask logo.png": "/fdt_project/static/media/mask logo.392b96e1e0173bff3eab.png",
+    "static/media/usda.webp": "/fdt_project/static/media/usda.f0ab2abf742f005e3b7e.webp",
+    "static/media/hardware.webp": "/fdt_project/static/media/hardware.d498aba218d8f4f6e7de.webp",
+    "static/media/ucsb.jpg": "/fdt_project/static/media/ucsb.da9fbdec612ed7903bf5.jpg",
+    "static/media/atm.jpg": "/fdt_project/static/media/atm.0c109ec0f02399223712.jpg",
+    "static/media/fdt1.webp": "/fdt_project/static/media/fdt1.40d2dc67ac79f8eba896.webp",
+    "static/media/software.webp": "/fdt_project/static/media/software.cee3c2d89f2e65007354.webp",
+    "static/media/connie.jpg": "/fdt_project/static/media/connie.ec24b59c2265c5928db5.jpg",
+    "static/media/Larta-logo_edited.png.webp": "/fdt_project/static/media/Larta-logo_edited.png.d3529349ccc207e0fb0d.webp",
+    "static/media/chris.jpg": "/fdt_project/static/media/chris.858d131dcd284c6d1921.jpg",
+    "static/media/FDT website watermark white.png": "/fdt_project/static/media/FDT website watermark white.ef33b866de1a885d5649.png",
+    "static/media/tex.jpg": "/fdt_project/static/media/tex.b00ba7e4f7ab74a0ff93.jpg",
+    "static/media/businessMT.jpg": "/fdt_project/static/media/businessMT.498e3c1f9112d607c84d.jpg",
+    "index.html": "/fdt_project/index.html",
+    "main.4aea1cd8.css.map": "/fdt_project/static/css/main.4aea1cd8.css.map",
+    "main.c2ed7001.js.map": "/fdt_project/static/js/main.c2ed7001.js.map",
+    "787.f49fe70c.chunk.js.map": "/fdt_project/static/js/787.f49fe70c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aea1cd8.css",
+    "static/js/main.c2ed7001.js"
+  ]
+}
